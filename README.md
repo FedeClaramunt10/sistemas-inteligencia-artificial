@@ -10,6 +10,11 @@ Trabajos de la materia Sistemas de Inteligencia Artificial de la Tecnicatura en 
 | [Ejercicio1_Red_Neuronal_Numpy.ipynb](notebooks/Ejercicio1_Red_Neuronal_Numpy.ipynb) | Red neuronal implementada a mano con NumPy: inicialización de pesos y sesgos, propagación hacia adelante y operaciones base. |
 | [Ejercicio2_Retropropagacion_AND.ipynb](notebooks/Ejercicio2_Retropropagacion_AND.ipynb) | Actividad de retropropagación (backpropagation) aplicada al problema lógico AND: tabla de verdad, gradiente descenso y entrenamiento paso a paso. |
 | [Ejercicio5_Keras_Mnist.ipynb](notebooks/Ejercicio5_Keras_Mnist.ipynb) | Clasificación de dígitos (MNIST) con redes neuronales en Keras/TensorFlow: definición del modelo, compilación, entrenamiento y métricas. |
+| [SIA_Trabajo_Practico1.ipynb](notebooks/SIA_Trabajo_Practico1.ipynb) | Trabajo Práctico 1. |
+| [ejercicio2_raices.ipynb](notebooks/ejercicio2_raices.ipynb) | Ejercicio 2: búsqueda de raíces. |
+| [clase3/](notebooks/clase3/) | Material de la clase 3. |
+| [clase4_5/](notebooks/clase4_5/) | Material de las clases 4 y 5. |
+| [clase6/](notebooks/clase6/) | Material de la clase 6. |
 
 Todos los notebooks se publican ejecutados, con sus salidas y gráficos, y se pueden leer directamente en GitHub.
 
