@@ -1,6 +1,6 @@
-# Sistemas de Inteligencia Artificial
+﻿# Sistemas de Inteligencia Artificial
 
-Trabajos de la materia Sistemas de Inteligencia Artificial de la Tecnicatura en Análisis de Datos e Inteligencia Artificial: redes neuronales desde sus fundamentos en NumPy hasta su implementación con Keras/TensorFlow.
+Trabajos de la materia Sistemas de Inteligencia Artificial de la Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial: redes neuronales desde sus fundamentos en NumPy hasta su implementación con Keras/TensorFlow.
 
 ## Notebooks
 
